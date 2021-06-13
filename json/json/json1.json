@@ -1,0 +1,22 @@
+{
+    "Prodects": [
+        {
+            "Name": "Rice",
+            "Weight": 150,
+            "Price_per_kg": 50
+
+        },
+
+        {
+            "Name": "Wheat",
+            "Weight": 250,
+            "Price_per_kg": 100
+        },
+
+        {
+            "Name": "Pulses",
+            "Weight": 200,
+            "Price_per_kg": 55
+        }
+    ]
+}
